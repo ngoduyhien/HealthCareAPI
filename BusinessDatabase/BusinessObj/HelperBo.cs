@@ -12,7 +12,11 @@ namespace BusinessDatabase.BusinessObj
 {
     public class HelperBo
     {
-
+        /// <summary>
+        ///  code by long óc chó
+        /// </summary>
+        /// <param name="collectionName"></param>
+        /// <returns></returns>
         public List<FoodDto> GetAll(string collectionName)
         {
             var conn = new GCloudDbConnection();

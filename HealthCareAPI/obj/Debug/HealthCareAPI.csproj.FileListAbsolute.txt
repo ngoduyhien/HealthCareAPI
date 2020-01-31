@@ -30,3 +30,5 @@ D:\Health Care\HealthCareAPI\HealthCareAPI\bin\Antlr3.Runtime.pdb
 D:\Health Care\HealthCareAPI\HealthCareAPI\obj\Debug\HealthCareAPI.csprojResolveAssemblyReference.cache
 D:\Health Care\HealthCareAPI\HealthCareAPI\obj\Debug\HealthCareAPI.dll
 D:\Health Care\HealthCareAPI\HealthCareAPI\obj\Debug\HealthCareAPI.pdb
+E:\source\repos\HealthCareAPI\HealthCareAPI\obj\Debug\HealthCareAPI.csprojResolveAssemblyReference.cache
+E:\source\repos\HealthCareAPI\HealthCareAPI\obj\Debug\HealthCareAPI.dll

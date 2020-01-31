@@ -15,8 +15,9 @@ namespace BusinessDatabase
         {
             if (client == null)
             {
-                client = new MongoClient(System.Configuration.ConfigurationSettings.AppSettings.Get("HealthCareDb"));
-                database = client.GetDatabase(System.Configuration.ConfigurationSettings.AppSettings.Get("DbName"));
+                client = new MongoClient(System.Configuration.ConfigurationManager.AppSettings["HealthCareDb"]);
+                database = client.GetDatabase(System.Configuration.ConfigurationManager.AppSettings["DbName"]);
+                
             }
         }
     }
