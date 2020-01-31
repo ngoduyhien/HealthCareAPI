@@ -37,7 +37,6 @@ namespace BusinessDatabase.BusinessObj
             {
                 collection.InsertOneAsync(document);
                 isOk = true;
-             
             }
             catch (Exception ex)
             {
